@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Welcome to ZigmannMedia
 
-<!--
-**ZigmannMedia/ZigmannMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ZigmannMedia is a curated resale storefront offering collectible bundles across coins, comics, games, and movies. Built for transparency, value, and simplicity—every bundle starts at $15.
 
-Here are some ideas to get you started:
+## 🔧 What We're Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A custom storefront hosted on GitHub Pages
+- A “Build Your Bundle” page with checkbox logic
+- Flat pricing model ($15 per bundle)
+- Inventory tracking and auto-removal of out-of-stock items
+- PayPal checkout integration
+
+## 💡 Why It Matters
+
+We believe in fair pricing, collector-friendly bundles, and a simple shopping experience. No gimmicks—just great finds.
+
+## 📫 Contact
+
+Want to collaborate or learn more? Reach out at zigmannmedia@gmail.com.
